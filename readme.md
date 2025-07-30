@@ -11,3 +11,4 @@ pip install django
 git config --global user.name "seu nome" (configura o nome do usuário no Git)
 git config --global user.email "seu email" (configura o endereço de e-mail)
 
+django-admin startproject myproject (criar projeto django)
